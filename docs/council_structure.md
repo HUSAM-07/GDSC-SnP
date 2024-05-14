@@ -75,5 +75,17 @@ The council structure depicted in the flowchart outlines the hierarchical struct
 
 - **SnP Executive & Database Systems Admin**: Specialized roles within the Management/Events Team, responsible for _Standards and Procuedures_ aka Quality Assurance and _Database administration_ aka Managing the GDSC Database.
 
+---
+
+# Job Decriptions
+**SnP Executive**: Responsible for maintaining the Standards and Procedures of the Council Operations, Quality Check, Introduce and Optimize New or Existing Systems and Procedures, Automation of repeated tasks and Introduce Robust Tasks.
+    - Will report to the Lead, Co-Lead and Management Lead
+**Database Systems Admin**: Responsible for ensuring continuous development and maintainence of GDSC Database (Google Sheets, Task Tracker, GDSC Website, GDSC ERP). Also expected to building automation systems, Dashbaords and Internal Tools
+**Technical Executive**: Conduct workshops on their field of experiance, Continuously learn new technologies and make questions for competitions and hackathons conducted by GDSC
+    - Also respnsible for handling technical aspects of workshops conducted by GDSC.
+    - Preparing workshop documentation and actively reviewing documentation for other's workshops.
+**Marketing Executive**: Resonsible for coming up with ideas to market events(Workshops/Competitions/Hackathons/Drives) and implement them using the help of creative and events team.
+    - Also responsible for coming up with new initiatives to improve engagement and ommunication with community members.
+
   ==The Documentation is Subject to Change upon the Leads Decision; This documentation has been compiled through experiance and experimentation, and is the official documentation and procedures compiled by Mohammed Husamuddin and Maintained by Sivaa B==
 

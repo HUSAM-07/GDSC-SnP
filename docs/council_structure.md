@@ -34,6 +34,8 @@ The council structure depicted in the flowchart outlines the hierarchical struct
   - Overseeing team performance and ensuring alignment with organizational objectives.
   - Acting as a liaison between different teams and stakeholders.
   - Responsible for external affairs and external interaction with university administration as a spokesperson.
+- **Mentors**: Responsible for keeping the Administrative Structure in Check, Advising the Lead and the Co-Lead in overall club management.
+  - Helping the council technically and managerially when needed and keeping the systems and procedures in check.
 
 - **Technical Lead**: Responsible for technical aspects of the council's operations, including:
   - Leading technical projects and initiatives.
@@ -79,13 +81,15 @@ The council structure depicted in the flowchart outlines the hierarchical struct
 
 # Job Decriptions
 **SnP Executive**: Responsible for maintaining the Standards and Procedures of the Council Operations, Quality Check, Introduce and Optimize New or Existing Systems and Procedures, Automation of repeated tasks and Introduce Robust Tasks.
-    - Will report to the Lead, Co-Lead and Management Lead
-**Database Systems Admin**: Responsible for ensuring continuous development and maintainence of GDSC Database (Google Sheets, Task Tracker, GDSC Website, GDSC ERP). Also expected to building automation systems, Dashbaords and Internal Tools
-**Technical Executive**: Conduct workshops on their field of experiance, Continuously learn new technologies and make questions for competitions and hackathons conducted by GDSC
-    - Also respnsible for handling technical aspects of workshops conducted by GDSC.
-    - Preparing workshop documentation and actively reviewing documentation for other's workshops.
+- Will report to the Lead, Co-Lead and Management Lead
+
+**Database Systems Admin**: Responsible for ensuring continuous development and maintainence of GDSC Database (Google Sheets, Task Tracker, GDSC Website, GDSC ERP). Also expected to building automation systems, Dashbaords and Internal Tools.
+
+**Technical Executive**: Conduct workshops on their field of experiance, Continuously learn new technologies and make questions for competitions and hackathons conducted by GDSC.
+- Also respnsible for handling technical aspects of workshops conducted by GDSC.
+- Preparing workshop documentation and actively reviewing documentation for other's workshops.
 **Marketing Executive**: Resonsible for coming up with ideas to market events(Workshops/Competitions/Hackathons/Drives) and implement them using the help of creative and events team.
-    - Also responsible for coming up with new initiatives to improve engagement and ommunication with community members.
+- Also responsible for coming up with new initiatives to improve engagement and ommunication with community members.
 
 > This structure is developed by Mohammed Husamuddin (Lead of Google DSC 2023-2024) from experiance and active experimentation
 

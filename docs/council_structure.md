@@ -87,5 +87,7 @@ The council structure depicted in the flowchart outlines the hierarchical struct
 **Marketing Executive**: Resonsible for coming up with ideas to market events(Workshops/Competitions/Hackathons/Drives) and implement them using the help of creative and events team.
     - Also responsible for coming up with new initiatives to improve engagement and ommunication with community members.
 
+> This structure is developed by Mohammed Husamuddin (Lead of Google DSC 2023-2024) from experiance and active experimentation
+
   ==The Documentation is Subject to Change upon the Leads Decision; This documentation has been compiled through experiance and experimentation, and is the official documentation and procedures compiled by Mohammed Husamuddin and Maintained by Sivaa B==
 
